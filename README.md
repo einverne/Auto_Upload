@@ -258,7 +258,7 @@ python3 -m pip install auto_upload -i https://pypi.tuna.tsinghua.edu.cn/simple/
 auto_upload -h
 ```
   
-5.更新`Auto_Upload`，，在`Terminal.app`中输入:
+5.更新`Auto_Upload`，在`Terminal.app`中输入:
 ```bash
 python3 -m pip install --upgrade auto_upload -i https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
@@ -375,6 +375,7 @@ Windows下的mktorrent支持的不太好，后面我再修复吧
 群号:735803201
 
 ## Reference
+
 [Differential 差速器](https://github.com/LeiShi1313/Differential)  (复制了上传图床部分代码)  
 [Differential差速器使用教程](https://leishi.io/blog/posts/2021-12/Differential/)  (Auto_Upload安装教程主要参考本文)  
 [mktorrent-win-builds](https://github.com/q3aql/mktorrent-win-builds)  
