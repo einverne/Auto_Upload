@@ -298,10 +298,10 @@ https://microsoftedge.microsoft.com/addons/detail/editthiscookie/jhampopgcdhehhk
 ### 4.在文件夹中新建配置文件au.yaml
 详细参数说明参考[au_example.yaml](https://github.com/dongshuyan/Auto_Upload/blob/master/au_example.yaml)  
 
-  
 注意：如果是在windows系统下，要发布的`资源文件/文件夹名称`如果有`空格`会导致制作种子失败，建议将空格替换为`.`或者下划线`_`。其他系统没有这个问题。  
   
 建立完成后在工作目录下应该有三个文件夹以及一个au.yaml位置文件，如下图  
+
 ![Img_Demo](https://img.picgo.net/2022/08/06/dir.jpg)  
 
 
